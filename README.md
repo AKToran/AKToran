@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aktoran" alt="aktoran" /></a> </p>
 
-- 🌱 I’m currently learning **Djnago.**
+- 🌱 I’m currently learning MERN Stack
 
 - 📫 How to reach me **aktoran60@gmail.com**
 
